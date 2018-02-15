@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <math.h>
 #include <cctype>
-
+//que tranza homs somos Tat Y Angel desde mai jouse en Github
 using namespace std;
 
 void gotoxy(int x,int y){  
